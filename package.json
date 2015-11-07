@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CodeAstra/karela/issues"
   },
-  "homepage": "https://github.com/CodeAstra/karela#readme"
+  "homepage": "https://github.com/CodeAstra/karela#readme",
+  "devDependencies": {
+    "bower": "^1.6.5"
+  }
 }
