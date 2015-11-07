@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="Karela">
   <head>
     <meta charset="utf-8">
     <title>Karela - Better way to track your projects</title>
 
     <script src="bower_components/angular/angular.js"></script>
+    <script src="js/src/app.js"></script>
   </head>
-  <body ng-app>
-    <h1>{{1+2}}</h1>
+  <body ng-controller="TasksCtrl as tasks">
+    <h1>{{tasks.title}}</h1>
   </body>
 </html>
