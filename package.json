@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/CodeAstra/karela#readme",
   "devDependencies": {
-    "bower": "^1.6.5"
+    "bower": "^1.6.5",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.1.0"
   }
 }
